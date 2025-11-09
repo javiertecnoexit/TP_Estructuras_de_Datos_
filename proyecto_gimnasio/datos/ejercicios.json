@@ -1,0 +1,83 @@
+[
+  {
+    "id_ejercicio": 1,
+    "nombre": "Correr en Cinta",
+    "tipo": "CARDIO",
+    "grupo_muscular": "PIERNAS",
+    "calorias_por_minuto": 8.5,
+    "descripcion": "Carrera continua en cinta de correr",
+    "instrucciones": "Mantener ritmo constante, postura erguida"
+  },
+  {
+    "id_ejercicio": 2,
+    "nombre": "Press de Banca",
+    "tipo": "FUERZA",
+    "grupo_muscular": "PECHO",
+    "calorias_por_minuto": 4.2,
+    "descripcion": "Ejercicio con barra para pectorales",
+    "instrucciones": "Mantener espalda apoyada, controlar descenso"
+  },
+  {
+    "id_ejercicio": 3,
+    "nombre": "Sentadillas con Barra",
+    "tipo": "FUERZA",
+    "grupo_muscular": "PIERNAS",
+    "calorias_por_minuto": 5.8,
+    "descripcion": "Ejercicio fundamental para piernas",
+    "instrucciones": "Espalda recta, rodillas alineadas con pies"
+  },
+  {
+    "id_ejercicio": 4,
+    "nombre": "Bicicleta Elíptica",
+    "tipo": "CARDIO",
+    "grupo_muscular": "PIERNAS",
+    "calorias_por_minuto": 7.3,
+    "descripcion": "Ejercicio cardiovascular de bajo impacto",
+    "instrucciones": "Movimiento fluido, postura erguida"
+  },
+  {
+    "id_ejercicio": 5,
+    "nombre": "Dominadas",
+    "tipo": "FUERZA",
+    "grupo_muscular": "ESPALDA",
+    "calorias_por_minuto": 6.1,
+    "descripcion": "Ejercicio de auto-carga para espalda",
+    "instrucciones": "Movimiento controlado, evitar balanceo"
+  },
+  {
+    "id_ejercicio": 6,
+    "nombre": "Estocadas",
+    "tipo": "FUERZA",
+    "grupo_muscular": "PIERNAS",
+    "calorias_por_minuto": 5.0,
+    "descripcion": "Ejercicio unilateral para piernas",
+    "instrucciones": "Pecho alto, rodilla no sobrepasa punta del pie"
+  },
+  {
+    "id_ejercicio": 7,
+    "nombre": "Press Militar",
+    "tipo": "FUERZA",
+    "grupo_muscular": "HOMBROS",
+    "calorias_por_minuto": 4.8,
+    "descripcion": "Ejercicio para hombros con barra",
+    "instrucciones": "Core firme, evitar arquear espalda"
+  },
+  {
+    "id_ejercicio": 8,
+    "nombre": "Yoga Flow",
+    "tipo": "FLEXIBILIDAD",
+    "grupo_muscular": "TODO_CUERPO",
+    "calorias_por_minuto": 3.5,
+    "descripcion": "Secuencia de posturas de yoga",
+    "instrucciones": "Respiración consciente, movimientos fluidos"
+  },
+  {
+    "id_ejercicio": 9,
+    "nombre": "Estiramientos Pasivos",
+    "tipo": "FLEXIBILIDAD",
+    "grupo_muscular": "TODO_CUERPO",
+    "calorias_por_minuto": 2.0,
+    "descripcion": "Estiramientos mantenidos",
+    "instrucciones": "Mantener 30 segundos cada estiramiento, sin rebotes"
+  }
+]

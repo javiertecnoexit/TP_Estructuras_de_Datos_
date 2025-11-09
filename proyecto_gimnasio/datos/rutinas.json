@@ -1,0 +1,50 @@
+[
+  {
+    "id_rutina": 1,
+    "nombre": "Rutina Quema Grasa",
+    "objetivo": "BAJAR_PESO",
+    "nivel": "INTERMEDIO",
+    "fecha_creacion": "2024-01-15",
+    "ejercicios": [
+      {"ejercicio_id": 1, "duracion_minutos": 30, "repeticiones": 0, "series": 0},
+      {"ejercicio_id": 4, "duracion_minutos": 20, "repeticiones": 0, "series": 0},
+      {"ejercicio_id": 5, "duracion_minutos": 10, "repeticiones": 3, "series": 15}
+    ]
+  },
+  {
+    "id_rutina": 2,
+    "nombre": "Rutina Tonificación",
+    "objetivo": "TONIFICAR",
+    "nivel": "PRINCIPIANTE",
+    "fecha_creacion": "2024-02-01",
+    "ejercicios": [
+      {"ejercicio_id": 2, "duracion_minutos": 25, "repeticiones": 3, "series": 12},
+      {"ejercicio_id": 3, "duracion_minutos": 20, "repeticiones": 3, "series": 10},
+      {"ejercicio_id": 6, "duracion_minutos": 15, "repeticiones": 0, "series": 0}
+    ]
+  },
+  {
+    "id_rutina": 3,
+    "nombre": "Rutina Fuerza Máxima",
+    "objetivo": "GANAR_FUERZA",
+    "nivel": "AVANZADO",
+    "fecha_creacion": "2024-01-20",
+    "ejercicios": [
+      {"ejercicio_id": 2, "duracion_minutos": 40, "repeticiones": 4, "series": 8},
+      {"ejercicio_id": 5, "duracion_minutos": 30, "repeticiones": 4, "series": 6},
+      {"ejercicio_id": 7, "duracion_minutos": 20, "repeticiones": 3, "series": 10}
+    ]
+  },
+  {
+    "id_rutina": 4,
+    "nombre": "Rutina Flexibilidad",
+    "objetivo": "MEJORAR_FLEXIBILIDAD",
+    "nivel": "PRINCIPIANTE",
+    "fecha_creacion": "2024-02-10",
+    "ejercicios": [
+      {"ejercicio_id": 8, "duracion_minutos": 25, "repeticiones": 0, "series": 0},
+      {"ejercicio_id": 9, "duracion_minutos": 20, "repeticiones": 0, "series": 0},
+      {"ejercicio_id": 6, "duracion_minutos": 15, "repeticiones": 0, "series": 0}
+    ]
+  }
+]

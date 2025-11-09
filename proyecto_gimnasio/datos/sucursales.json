@@ -1,0 +1,42 @@
+[
+  {
+    "id_sucursal": 1,
+    "nombre": "Gimnasio Centro",
+    "direccion": "Av. Corrientes 1234, CABA",
+    "telefono": "+54 11 4321-5678",
+    "horario_apertura": "06:00",
+    "horario_cierre": "23:00",
+    "capacidad_maxima": 100,
+    "servicios": ["PILETA", "SAUNA", "ESTACIONAMIENTO"]
+  },
+  {
+    "id_sucursal": 2,
+    "nombre": "Gimnasio Norte",
+    "direccion": "Av. Cabildo 2345, CABA",
+    "telefono": "+54 11 4321-5679",
+    "horario_apertura": "05:30",
+    "horario_cierre": "22:30",
+    "capacidad_maxima": 80,
+    "servicios": ["PILETA", "ESTACIONAMIENTO"]
+  },
+  {
+    "id_sucursal": 3,
+    "nombre": "Gimnasio Sur",
+    "direccion": "Av. Roca 3456, CABA",
+    "telefono": "+54 11 4321-5680",
+    "horario_apertura": "06:30",
+    "horario_cierre": "22:00",
+    "capacidad_maxima": 60,
+    "servicios": ["ESTACIONAMIENTO"]
+  },
+  {
+    "id_sucursal": 4,
+    "nombre": "Gimnasio Oeste",
+    "direccion": "Av. Rivadavia 4567, CABA",
+    "telefono": "+54 11 4321-5681",
+    "horario_apertura": "07:00",
+    "horario_cierre": "23:00",
+    "capacidad_maxima": 120,
+    "servicios": ["PILETA", "SAUNA", "SPA", "ESTACIONAMIENTO"]
+  }
+]

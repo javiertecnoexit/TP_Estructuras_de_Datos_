@@ -1,0 +1,58 @@
+[
+  {
+    "id_clase": 1,
+    "nombre": "Yoga Inicial",
+    "tipo": "YOGA",
+    "horario_inicio": "2024-03-25 08:00:00",
+    "horario_fin": "2024-03-25 09:00:00",
+    "cupo_maximo": 15,
+    "instructor": 1,
+    "dificultad": "PRINCIPIANTE",
+    "sala": "Sala 1",
+    "sucursal": 1,
+    "socios_inscritos": [1, 3],
+    "estado": "CONFIRMADA"
+  },
+  {
+    "id_clase": 2,
+    "nombre": "CrossFit Avanzado",
+    "tipo": "CROSSFIT",
+    "horario_inicio": "2024-03-25 18:00:00",
+    "horario_fin": "2024-03-25 19:30:00",
+    "cupo_maximo": 10,
+    "instructor": 2,
+    "dificultad": "AVANZADO",
+    "sala": "Sala 2",
+    "sucursal": 2,
+    "socios_inscritos": [2],
+    "estado": "CONFIRMADA"
+  },
+  {
+    "id_clase": 3,
+    "nombre": "Spinning Intermedio",
+    "tipo": "SPINNING",
+    "horario_inicio": "2024-03-26 09:00:00",
+    "horario_fin": "2024-03-26 10:00:00",
+    "cupo_maximo": 20,
+    "instructor": 3,
+    "dificultad": "INTERMEDIO",
+    "sala": "Sala 3",
+    "sucursal": 1,
+    "socios_inscritos": [1],
+    "estado": "CONFIRMADA"
+  },
+  {
+    "id_clase": 4,
+    "nombre": "Pilates Principiantes",
+    "tipo": "PILATES",
+    "horario_inicio": "2024-03-26 11:00:00",
+    "horario_fin": "2024-03-26 12:00:00",
+    "cupo_maximo": 12,
+    "instructor": 4,
+    "dificultad": "PRINCIPIANTE",
+    "sala": "Sala 1",
+    "sucursal": 3,
+    "socios_inscritos": [3],
+    "estado": "CANCELADA"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tipo": "BASICA",
+    "precio_mensual": 3500.00,
+    "clases_semanales": 3,
+    "acceso_sucursales": [1, 2, 3],
+    "beneficios": ["Acceso a áreas de peso libre", "Clases grupales básicas"]
+  },
+  {
+    "tipo": "PREMIUM",
+    "precio_mensual": 5500.00,
+    "clases_semanales": 6,
+    "acceso_sucursales": [1, 2, 3, 4],
+    "beneficios": ["Acceso completo", "Todas clases grupales", "Uso de piscina"]
+  },
+  {
+    "tipo": "VIP",
+    "precio_mensual": 8500.00,
+    "clases_semanales": 999,
+    "acceso_sucursales": [1, 2, 3, 4],
+    "beneficios": ["Acceso ilimitado", "Todas clases grupales", "Acceso a spa/sauna", "Entrenador personal 1x mes"]
+  }
+]

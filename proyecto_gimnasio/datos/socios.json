@@ -1,0 +1,58 @@
+[
+  {
+    "id_socio": 1,
+    "nombre": "María González",
+    "documento": "28987654",
+    "email": "maria.gonzalez@email.com",
+    "telefono": "+54 11 3456-7890",
+    "fecha_inscripcion": "2024-01-15",
+    "tipo_membresia": "PREMIUM",
+    "estado": "ACTIVO",
+    "sucursal_preferida": 1,
+    "historial_rutinas": [1, 2],
+    "reservas_activas": [1, 3],
+    "ultima_asistencia": "2024-03-20"
+  },
+  {
+    "id_socio": 2,
+    "nombre": "Carlos Rodríguez",
+    "documento": "32123456",
+    "email": "carlos.rodriguez@email.com",
+    "telefono": "+54 11 4567-8901",
+    "fecha_inscripcion": "2024-02-10",
+    "tipo_membresia": "VIP",
+    "estado": "ACTIVO",
+    "sucursal_preferida": 2,
+    "historial_rutinas": [3],
+    "reservas_activas": [2],
+    "ultima_asistencia": "2024-03-21"
+  },
+  {
+    "id_socio": 3,
+    "nombre": "Ana López",
+    "documento": "25345678",
+    "email": "ana.lopez@email.com",
+    "telefono": "+54 11 5678-9012",
+    "fecha_inscripcion": "2024-01-30",
+    "tipo_membresia": "BASICA",
+    "estado": "ACTIVO",
+    "sucursal_preferida": 1,
+    "historial_rutinas": [4],
+    "reservas_activas": [4],
+    "ultima_asistencia": "2024-03-19"
+  },
+  {
+    "id_socio": 4,
+    "nombre": "Javier Méndez",
+    "documento": "35456789",
+    "email": "javier.mendez@email.com",
+    "telefono": "+54 11 6789-0123",
+    "fecha_inscripcion": "2023-12-05",
+    "tipo_membresia": "PREMIUM",
+    "estado": "SUSPENDIDO",
+    "sucursal_preferida": 3,
+    "historial_rutinas": [1, 3],
+    "reservas_activas": [],
+    "ultima_asistencia": "2024-02-28"
+  }
+]

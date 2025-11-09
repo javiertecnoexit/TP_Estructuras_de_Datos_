@@ -1,0 +1,46 @@
+[
+  {
+    "id_instructor": 1,
+    "nombre": "Laura Martínez",
+    "especialidad": "YOGA_PILATES",
+    "telefono": "+54 11 9876-5432",
+    "email": "laura.martinez@gimnasio.com",
+    "fecha_contratacion": "2023-05-15",
+    "sucursal_base": 1,
+    "clases_asignadas": [1],
+    "certificaciones": ["Yoga Alliance 200h", "Pilates Mat"]
+  },
+  {
+    "id_instructor": 2,
+    "nombre": "Diego Silva",
+    "especialidad": "CROSSFIT_FUNCIONAL",
+    "telefono": "+54 11 9876-5433",
+    "email": "diego.silva@gimnasio.com",
+    "fecha_contratacion": "2023-03-10",
+    "sucursal_base": 2,
+    "clases_asignadas": [2],
+    "certificaciones": ["CrossFit L1", "Entrenamiento Funcional"]
+  },
+  {
+    "id_instructor": 3,
+    "nombre": "Carolina Vargas",
+    "especialidad": "CICLO_INDOOR",
+    "telefono": "+54 11 9876-5434",
+    "email": "carolina.vargas@gimnasio.com",
+    "fecha_contratacion": "2023-07-20",
+    "sucursal_base": 1,
+    "clases_asignadas": [3],
+    "certificaciones": ["Spinning Mad Dogg", "Entrenamiento Intervalado"]
+  },
+  {
+    "id_instructor": 4,
+    "nombre": "Miguel Ángel Torres",
+    "especialidad": "PILATES_REFORMER",
+    "telefono": "+54 11 9876-5435",
+    "email": "miguel.torres@gimnasio.com",
+    "fecha_contratacion": "2023-09-05",
+    "sucursal_base": 3,
+    "clases_asignadas": [4],
+    "certificaciones": ["Pilates Reformer", "Pilates Studio"]
+  }
+]

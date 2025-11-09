@@ -1,0 +1,38 @@
+[
+  {
+    "id_pago": 1,
+    "socio_id": 1,
+    "monto": 5500.00,
+    "fecha_vencimiento": "2024-03-01",
+    "fecha_pago": "2024-02-28",
+    "tipo": "MENSUALIDAD",
+    "estado": "PAGADO"
+  },
+  {
+    "id_pago": 2,
+    "socio_id": 2,
+    "monto": 8500.00,
+    "fecha_vencimiento": "2024-03-01",
+    "fecha_pago": "2024-03-02",
+    "tipo": "MENSUALIDAD",
+    "estado": "PAGADO"
+  },
+  {
+    "id_pago": 3,
+    "socio_id": 3,
+    "monto": 3500.00,
+    "fecha_vencimiento": "2024-03-01",
+    "fecha_pago": "2024-03-05",
+    "tipo": "MENSUALIDAD",
+    "estado": "PAGADO"
+  },
+  {
+    "id_pago": 4,
+    "socio_id": 4,
+    "monto": 5500.00,
+    "fecha_vencimiento": "2024-03-01",
+    "fecha_pago": null,
+    "tipo": "MENSUALIDAD",
+    "estado": "VENCIDO"
+  }
+]
