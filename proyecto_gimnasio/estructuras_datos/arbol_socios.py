@@ -4,7 +4,7 @@ ARBOL_SOCIOS (Entrega 2)
     + insertar_socio(socio: Socio)
     + buscar_por_nivel_actividad(nivel: str) -> list[Socio]
 '''
-from proyecto_gimnasio.entidades.socio import Socio
+from entidades.socio import Socio
 class NodoArbol:
     def __init__(self, socio):
         self.socio = socio

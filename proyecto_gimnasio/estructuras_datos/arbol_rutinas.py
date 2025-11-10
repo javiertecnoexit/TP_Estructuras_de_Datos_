@@ -4,11 +4,13 @@ ARBOL_RUTINAS (Entrega 2)
     + insertar_rutina(rutina: Rutina, padre: Rutina = None)
 '''
 
-from proyecto_gimnasio.entidades.rutina import Rutina
+from entidades.rutina import Rutina
+
 class NodoArbolRutina:
     def __init__(self, rutina):
         self.rutina = rutina
         self.hijos = []
+        
 class ArbolRutinas:
     def __init__(self):
         self.raiz = None

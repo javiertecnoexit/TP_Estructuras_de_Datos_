@@ -5,7 +5,7 @@ COLA_PRIORIDAD_RESERVAS (Entrega 3)
     + desencolar() -> Reserva
 
 '''
-from proyecto_gimnasio.entidades.reserva import Reserva
+from entidades.reserva import Reserva
 import heapq    
 class ColaPrioridadReservas:
     def __init__(self):

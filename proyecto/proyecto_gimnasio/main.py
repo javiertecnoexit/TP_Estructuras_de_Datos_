@@ -43,7 +43,7 @@ class SistemaGimnasios:
         datos = self.cargador.cargar_todos_los_datos()
         
         # Crear instancia del gimnasio principal
-        self.gimnasio = Gimnasio("PowerFit Gym")
+        self.gimnasio = Gimnasio("PowerFit Gym", "Av. Principal 123")
         
         # Cargar sucursales en el grafo
         print("\n📊 CARGANDO ESTRUCTURAS DE DATOS...")

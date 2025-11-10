@@ -4,7 +4,7 @@ GRAFO_SUCURSALES (Entrega 3)
     - aristas: dict[int, list[tuple[int, float]]]
     + agregar_conexion(sucursal1: int, sucursal2: int, distancia: float)
 '''
-from proyecto_gimnasio.sistema.sucursal import Sucursal
+from sistema.sucursal import Sucursal
 class GrafoSucursales:
     def __init__(self):
         self.nodos = {}
