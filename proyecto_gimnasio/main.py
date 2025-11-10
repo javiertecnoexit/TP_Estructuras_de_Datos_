@@ -72,14 +72,17 @@ class SistemaGimnasios:
             sucursal = Sucursal(
                 suc_data['id'], 
                 suc_data['nombre'], 
-                suc_data['direccion']
+                suc_data['direccion'],
+                suc_data['telefono'], 
+                suc_data['horario_apertura'], 
+                suc_data['horario_cierre']
             )
-            self.grafo_sucursales.agregar_nodo(suc_data['id'], sucursal)
+            self.grafo_sucursales.agregar_sucursal( sucursal)
             
         # Agregar conexiones entre sucursales (distancias en km)
         conexiones = [(1, 2, 5.2), (1, 3, 8.7), (2, 3, 3.5), (2, 4, 12.1), (3, 4, 9.8)]
         for suc1, suc2, distancia in conexiones:
-            self.grafo_sucursales.agregar_arista(suc1, suc2, distancia)
+            self.grafo_sucursales.agregar_conexion(suc1, suc2, distancia)
             
         print(f"📍 {len(datos_sucursales)} sucursales cargadas en grafo")
 
